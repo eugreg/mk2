@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mortal Kombat 3
+Exec=env WINEPREFIX="/home/aluno/.wine" wine-stable C:\\\\Program\\ Files\\ \\(x86\\)\\\\Mortal\\ Kombat\\ 3\\\\fusion.exe \\"Mortal\\ Kombat\\ 3\\ \\(E\\)\\ [!].bin\\"
+Type=Application
+StartupNotify=true
+Path=/home/aluno/.wine/dosdevices/c:/Program Files (x86)/Mortal Kombat 3
+Icon=04C9_fusion.0
+StartupWMClass=fusion.exe
